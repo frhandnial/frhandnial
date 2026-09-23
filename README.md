@@ -1,6 +1,6 @@
 # Hi there, I'm Farhan Danial! 👋
 
-### Mechanical Engineering (MEng) | Aerospace, Hardware & CAD Enthusiast 🚀
+### Mechanical Engineering (MEng) | Robotic automation & Modelling Enthusiast 🚀
 
 I am a final-year MEng Mechanical Engineering student at **The University of Sheffield** (MARA Scholar). I have a strong foundation in CAD design, FEA simulation, and hardware prototyping, and I love bridging the gap between mechanical structures and embedded electronics.
 
